@@ -24,6 +24,7 @@ import android.widget.TextView
 import android.widget.Toast
 import java.util.*
 
+//hi
 /**
  * DiceRoller demonstrates simple interactivity in an Android app.
  * It contains one button that updates an image view with a dice
